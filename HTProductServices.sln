@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigPrintWebsite", "BigPrintWebsite\BigPrintWebsite.csproj", "{E59C69B7-B085-4361-8EC7-1300C75041D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTPSSystem.JMont", "HTPSSystem.JMont\HTPSSystem.JMont.csproj", "{776C0199-23C5-49B2-992F-00A2959CEFED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTPSSystem.JMont.Data", "HTPSSystem.JMont.Data\HTPSSystem.JMont.Data.csproj", "{E0141CA0-D025-41E7-8039-3535D3684323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59C69B7-B085-4361-8EC7-1300C75041D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59C69B7-B085-4361-8EC7-1300C75041D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59C69B7-B085-4361-8EC7-1300C75041D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59C69B7-B085-4361-8EC7-1300C75041D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776C0199-23C5-49B2-992F-00A2959CEFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776C0199-23C5-49B2-992F-00A2959CEFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776C0199-23C5-49B2-992F-00A2959CEFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776C0199-23C5-49B2-992F-00A2959CEFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0141CA0-D025-41E7-8039-3535D3684323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0141CA0-D025-41E7-8039-3535D3684323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0141CA0-D025-41E7-8039-3535D3684323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0141CA0-D025-41E7-8039-3535D3684323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

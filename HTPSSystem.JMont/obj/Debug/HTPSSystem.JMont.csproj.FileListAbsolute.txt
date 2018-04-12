@@ -1,0 +1,109 @@
+E:\CS_NET\NorthwindSystem\bin\Debug\NorthwindSystem.dll
+E:\CS_NET\NorthwindSystem\bin\Debug\NorthwindSystem.pdb
+E:\CS_NET\NorthwindSystem\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+E:\CS_NET\NorthwindSystem\obj\Debug\NorthwindSystem.dll
+E:\CS_NET\NorthwindSystem\obj\Debug\NorthwindSystem.pdb
+E:\CS_NET\NorthwindSystem\bin\Debug\Northwind.Data.dll
+E:\CS_NET\NorthwindSystem\bin\Debug\Northwind.Data.pdb
+C:\Users\John's Gaming PC\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+C:\Users\John's Gaming PC\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\obj\Debug\NorthwindSystem.dll
+C:\Users\John's Gaming PC\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\obj\Debug\NorthwindSystem.pdb
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\bin\Debug\NorthwindSystem.dll
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\bin\Debug\NorthwindSystem.pdb
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\obj\Debug\NorthwindSystem.dll
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont\obj\Debug\NorthwindSystem.pdb
+E:\Exercis7\CS_NET\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+E:\Exercis7\CS_NET\HTPSSystem.JMont\obj\Debug\NorthwindSystem.dll
+E:\Exercis7\CS_NET\HTPSSystem.JMont\obj\Debug\NorthwindSystem.pdb
+E:\Exercis7\CS_NET\HTPSSystem.JMont\bin\Debug\NorthwindSystem.dll
+E:\Exercis7\CS_NET\HTPSSystem.JMont\bin\Debug\NorthwindSystem.pdb
+E:\Exercis7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+E:\Exercis7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+E:\Exercis7\CS_NET\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+E:\Exercis7\CS_NET\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+E:\Exercis7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+E:\Exercis7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.dll
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.pdb
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.dll
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.pdb
+D:\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.dll
+D:\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.pdb
+D:\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+D:\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+D:\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+D:\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+D:\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+D:\Exercise7\CS_NET\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+D:\Exercise7\CS_NET\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.dll
+D:\Exercise7\CS_NET\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.pdb
+D:\Exercise7\CS_NET\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.dll
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.pdb
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.dll
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.pdb
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.pdb
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.pdb
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.dll
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.pdb
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.dll
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.pdb
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.dll
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.pdb
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.dll
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.pdb

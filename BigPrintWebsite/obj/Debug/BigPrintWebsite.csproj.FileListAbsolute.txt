@@ -1,0 +1,415 @@
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\ApplicationInsights.config
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\csc.exe
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\vbc.exe
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll.config
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.pdb
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\EntityFramework.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Owin.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\WebGrease.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.pdb
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\EntityFramework.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.pdb
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Northwind.Data.dll
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\Northwind.Data.pdb
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.pdb
+c:\users\jm's property\documents\visual studio 2015\Projects\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.csprojResolveAssemblyReference.cache
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\ApplicationInsights.config
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\csc.exe
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\vbc.exe
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll.config
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.pdb
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\EntityFramework.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Northwind.Data.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Owin.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\WebGrease.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Northwind.Data.pdb
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.pdb
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\EntityFramework.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.csprojResolveAssemblyReference.cache
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.dll
+C:\Users\JM's Property\Desktop\EXERCISE_5\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\ApplicationInsights.config
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\csc.exe
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\vbc.exe
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll.config
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Owin.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\WebGrease.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.csprojResolveAssemblyReference.cache
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\ApplicationInsights.config
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\csc.exe
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\vbc.exe
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll.config
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.pdb
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.jQuery.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Northwind.Data.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Owin.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\WebGrease.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Northwind.Data.pdb
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.pdb
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.pdb
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Exercise_7\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.csprojResolveAssemblyReference.cache
+D:\Exercise_7\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.dll
+D:\Exercise_7\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.pdb
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\ApplicationInsights.config
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\csc.exe
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\System.Collections.Immutable.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\System.Reflection.Metadata.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\vbc.exe
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\roslyn\VBCSCompiler.exe.config
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll.config
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\BigPrintWebsite.pdb
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\AspNet.ScriptManager.jQuery.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Web.Infrastructure.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Northwind.Data.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Owin.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\WebGrease.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Northwind.Data.pdb
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\HTPSSystem.JMont.pdb
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.DependencyCollector.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.Web.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AI.WindowsServer.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.ApplicationInsights.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Optimization.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Antlr3.Runtime.pdb
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Newtonsoft.Json.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\EntityFramework.SqlServer.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\System.Web.Providers.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Google.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Exercise_7\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.csprojResolveAssemblyReference.cache
+G:\Exercise_7\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.dll
+G:\Exercise_7\HTProductServices\BigPrintWebsite\obj\Debug\BigPrintWebsite.pdb

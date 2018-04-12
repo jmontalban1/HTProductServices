@@ -1,0 +1,48 @@
+E:\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.dll
+E:\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.pdb
+E:\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.dll
+E:\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\John's Gaming PC\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
+C:\Users\John's Gaming PC\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\John's Gaming PC\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\obj\Debug\HTPSSystem.JMont.Data.csprojResolveAssemblyReference.cache
+C:\Users\John's Gaming PC\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
+C:\Users\John's Gaming PC\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\obj\Debug\HTPSSystem.JMont.Data.csprojResolveAssemblyReference.cache
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise06\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb
+E:\Exercis7\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
+E:\Exercis7\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
+E:\Exercis7\CS_NET\HTPSSystem.JMont.Data\obj\Debug\HTPSSystem.JMont.Data.csprojResolveAssemblyReference.cache
+E:\Exercis7\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
+E:\Exercis7\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise7\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb
+D:\Exercise7\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
+D:\Exercise7\CS_NET\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
+D:\Exercise7\CS_NET\HTPSSystem.JMont.Data\obj\Debug\HTPSSystem.JMont.Data.csprojResolveAssemblyReference.cache
+D:\Exercise7\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
+D:\Exercise7\CS_NET\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\HTPSSystem.JMont.Data.csprojResolveAssemblyReference.cache
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
+C:\Users\JM's Property\Documents\Visual Studio 2015\Projects\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\HTPSSystem.JMont.Data.csprojResolveAssemblyReference.cache
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Desktop\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\HTPSSystem.JMont.Data.csprojResolveAssemblyReference.cache
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
+D:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\HTPSSystem.JMont.Data.csprojResolveAssemblyReference.cache
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
+G:\Exercise_7\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb

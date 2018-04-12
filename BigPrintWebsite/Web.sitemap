@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title=""  description="root">
+    <siteMapNode url="~/Default.aspx" title="Home"  description="" />
+    <siteMapNode url="~/About.aspx" title="About"  description="" />
+    <siteMapNode url="~/Contact.aspx" title="Contact"  description="" />
+
+    <siteMapNode url="" title="Exercise Pages"  description="">
+      <siteMapNode url="~/ExercisePages/CustomerCRUD.aspx" title="Customer CRUD"  description="" />
+      <siteMapNode url="~/ExercisePages/ProductCRUD.aspx" title="Product CRUD"  description="" />
+</siteMapNode>
+    
+    <siteMapNode url="" title="Default Web Form"  description="root">
+      <siteMapNode url="~/ExercisePages/DefaultWebForm.aspx" title="Home"  description="" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
