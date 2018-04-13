@@ -107,3 +107,14 @@ G:\Exercise_7\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlSe
 G:\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
 G:\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.dll
 G:\Exercise_7\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.pdb
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.dll
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\bin\Debug\HTPSSystem.JMont.pdb
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.dll
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\bin\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.xml
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.csprojResolveAssemblyReference.cache
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.dll
+C:\Users\jmontalban1\Documents\GitHub\HTProductServices\HTPSSystem.JMont\obj\Debug\HTPSSystem.JMont.pdb

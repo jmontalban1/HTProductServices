@@ -49,13 +49,22 @@ namespace BigPrintWebsite.ExercisePages {
         protected global::System.Web.UI.WebControls.Button Clear;
         
         /// <summary>
-        /// Message control.
+        /// AddProduct control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Message;
+        protected global::System.Web.UI.WebControls.LinkButton AddProduct;
+        
+        /// <summary>
+        /// MessageList control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DataList MessageList;
         
         /// <summary>
         /// Label1 control.

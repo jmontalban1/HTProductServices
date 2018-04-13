@@ -41,5 +41,16 @@ namespace HTPSSystem.JMont.BLL
                 return context.SaveChanges();
             }
         }
+
+        public int Product_Add(Product item)
+        {
+            using (var context = new HTPSContext())
+            {
+                context.Product.Add(item);
+                context.SaveChanges();
+                return item.ProductID;                    
+            }
+
+        }
     }
 }

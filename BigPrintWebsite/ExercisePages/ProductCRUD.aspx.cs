@@ -8,15 +8,23 @@ using System.Web.UI.WebControls;
 #region Additional Namespaces
 using HTPSSystem.JMont.BLL;
 using HTPSSystem.JMont.Data.Entities;
+using System.Data.Entity.Validation;
+using System.Data.Entity.Infrastructure;
+using System.Data.Entity.Core;
 #endregion
 
 namespace BigPrintWebsite.ExercisePages
 {
     public partial class ProductCRUD : System.Web.UI.Page
     {
+        //a data collection to hold multipe strings
+        List<string> errormsgs = new List<string>();
         protected void Page_Load(object sender, EventArgs e)
         {
-            Message.Text = "";
+
+            MessageList.DataSource = null;
+            MessageList.DataBind();
+            //MessageList.Text = "";
             if (!Page.IsPostBack)
             {
                 ProductsDataBind();
@@ -31,6 +39,14 @@ namespace BigPrintWebsite.ExercisePages
             }
             return ex;
         }
+
+        protected void LoadMessageDisplay(List<string> errormsglist, string cssclass)
+        {
+            MessageList.CssClass = cssclass;
+            MessageList.DataSource = errormsglist;
+            MessageList.DataBind();
+        }
+
 
         protected void ProductsDataBind()
         {
@@ -61,7 +77,8 @@ namespace BigPrintWebsite.ExercisePages
             if (ProductList.SelectedIndex == 0)
             {
                 //ProductList has a prompt line at index 0
-                Message.Text = "Select a product to search.";
+                errormsgs.Add("Select a product to search.");
+                LoadMessageDisplay(errormsgs, "alert alert-warning");
             }
             else
             {
@@ -81,8 +98,9 @@ namespace BigPrintWebsite.ExercisePages
                     //     will be null
                     if (info == null)
                     {
-                        Message.Text = "Product not found. Try again";
-        
+                        errormsgs.Add("Product not found. Try again");
+                        LoadMessageDisplay(errormsgs, "alert alert-warning");
+
                         ProductsDataBind();
                     }
                     else
@@ -102,7 +120,8 @@ namespace BigPrintWebsite.ExercisePages
                 }
                 catch (Exception ex)
                 {
-                    Message.Text = GetInnerException(ex).Message;
+                    errormsgs.Add(GetInnerException(ex).ToString()); // why converrted to string
+                    LoadMessageDisplay(errormsgs, "alert alert-danger");
                 }
             }
         }
@@ -116,9 +135,51 @@ namespace BigPrintWebsite.ExercisePages
             Discontinued.Checked = false;
         }
 
+        protected void Add_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Product item = new Product();
+                item.Name = Name.Text;
 
+                item.Discontinued = Discontinued.Checked;
+                ProductController sysmgr = new ProductController();
 
-
-
+                int pkey = sysmgr.Product_Add(item);
+                ProductID.Text = pkey.ToString();
+                errormsgs.Add("Product was added");
+                LoadMessageDisplay(errormsgs, "alert alert-success");
+                ProductsDataBind();
+            }
+            catch (DbUpdateException ex)
+            {
+                UpdateException updateException = (UpdateException)ex.InnerException;
+                if (updateException.InnerException != null)
+                {
+                    errormsgs.Add(updateException.InnerException.Message.ToString());
+                }
+                else
+                {
+                    errormsgs.Add(updateException.Message);
+                }
+                LoadMessageDisplay(errormsgs, "alert alert-danger");
+            }
+            catch (DbEntityValidationException ex)
+            {
+                foreach (var entityValidationErrors in ex.EntityValidationErrors)
+                {
+                    foreach (var validationError in entityValidationErrors.ValidationErrors)
+                    {
+                        errormsgs.Add(validationError.ErrorMessage);
+                    }
+                }
+                LoadMessageDisplay(errormsgs, "alert alert-danger");
+            }
+            catch (Exception ex)
+            {
+                errormsgs.Add(GetInnerException(ex).ToString());
+                LoadMessageDisplay(errormsgs, "alert alert-danger");
+            }
+        }
     }
 }
