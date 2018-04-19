@@ -112,10 +112,12 @@ namespace BigPrintWebsite.ExercisePages
                         ProductID.Text = info.ProductID.ToString();
                         Name.Text = info.Name;
                         ModelNumber.Text = info.ModelNumber;
+                        
 
 
                         //Discontinued is a checkbox which is a bool set
                         Discontinued.Checked = info.Discontinued;
+
                     }
                 }
                 catch (Exception ex)
@@ -302,6 +304,7 @@ namespace BigPrintWebsite.ExercisePages
                         ProductsDataBind();
                         //reposition
                         ProductList.SelectedValue = ProductID.Text;
+                        
                         Discontinued.Checked = true;
                     }
                     else

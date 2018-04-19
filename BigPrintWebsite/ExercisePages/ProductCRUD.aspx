@@ -20,20 +20,22 @@
         </asp:DataList>
         <br />
         <br />
-           <ajaxToolkit:ConfirmButtonExtender ID="DeleteProduct_ConfirmButtonExtender" runat="server" BehaviorID="DeleteProduct_ConfirmButtonExtender" ConfirmText="Do you wish to discontinue this product?" TargetControlID="DeleteProduct" />
+        <ajaxToolkit:ConfirmButtonExtender ID="DeleteProduct_ConfirmButtonExtender" runat="server" BehaviorID="DeleteProduct_ConfirmButtonExtender" ConfirmText="Do you wish to discontinue this product?" TargetControlID="DeleteProduct" />
 
         <%-- validation --%>
-       <%--  <asp:ValidationSummary ID="ProductValidation" runat="server"
-                  HeaderText="Please correct your input to resolve the following issues." />
-         <asp:RequiredFieldValidator ID="RequiredFieldName" runat="server" 
-                 ErrorMessage="Product Name is required."
-                 Display="None" ControlToValidate="Name" SetFocusOnError="True">
-             </asp:RequiredFieldValidator>--%>
-<%--         <asp:RequiredFieldValidator ID="RequiredFieldModelNumber" runat="server" 
-                 ErrorMessage="Model Number is required."
-                 Display="None" ControlToValidate="ModelNumber" SetFocusOnError="True">
-             </asp:RequiredFieldValidator>--%>
+  <%--      <asp:ValidationSummary ID="ProductValidation" runat="server"
+            HeaderText="Please correct your input to resolve the following issues." />
+        <asp:RequiredFieldValidator ID="RequiredFieldName" runat="server"
+            ErrorMessage="Product Name is required."
+            Display="None" ControlToValidate="Name" SetFocusOnError="True">
+        </asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ID="RequiredFieldModelNumber" runat="server"
+            ErrorMessage="Model Number is required."
+            Display="None" ControlToValidate="ModelNumber" SetFocusOnError="True">s
+        </asp:RequiredFieldValidator>--%>
 
+        
+        
         <div class="col-md-12">
             <fieldset class="form-horizontal">
                 <legend>Product Information</legend>
@@ -55,6 +57,47 @@
                 <asp:CheckBox ID="Discontinued" runat="server" Text="Discontinued"></asp:CheckBox>
 
             </fieldset>
+        </div>
+
+
+        <%-- Gridview --%>
+
+        <div class="col-md-6">
+            <asp:GridView ID="ProductSelectionList" runat="server" OnSelectedIndexChanged="ProductSelectionList_SelectedIndexChanged" AutoGenerateColumns="False"
+                CssClass="table" GridLines="Horizontal" BorderStyle="None" AllowPaging="True" OnPageIndexChanging="ProductSelectionList_PageIndexChanging" PageSize="5" >
+                <Columns>
+                    <asp:CommandField ShowSelectButton="True" />
+                    <asp:TemplateField >
+                        <ItemTemplate>
+                            <asp:Label ID="ProductID" runat="server" 
+                                Text='<%# Eval("ProductID") %>'
+                                 Visible="false"></asp:Label>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+                    <asp:TemplateField HeaderText="Name">
+                        <ItemTemplate>
+                            <asp:Label ID="Label11" runat="server" 
+                                Text='<%# Eval("Name") %>'></asp:Label>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+                    <asp:TemplateField HeaderText="ModelNumber">
+                         <ItemTemplate>
+                            <asp:Label ID="Label12" runat="server" 
+                                Text='<%# Eval("ModelNumber") %>'></asp:Label>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+                    <asp:TemplateField HeaderText="Disc">
+                         <ItemTemplate>
+                            <asp:checkBox ID="Label13" runat="server" 
+                                Checked='<%# Eval("Discontinued") %>'></asp:checkBox>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+                </Columns>
+                <EmptyDataTemplate>
+                    No data available for supplied product search string
+                </EmptyDataTemplate>
+                <PagerSettings Mode="NumericFirstLast" PageButtonCount="3" />
+            </asp:GridView>
         </div>
     </div>
     <script src="../Scripts/bootwrap-freecode.js"></script>
