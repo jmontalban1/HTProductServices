@@ -20,6 +20,7 @@
         </asp:DataList>
         <br />
         <br />
+           <ajaxToolkit:ConfirmButtonExtender ID="DeleteProduct_ConfirmButtonExtender" runat="server" BehaviorID="DeleteProduct_ConfirmButtonExtender" ConfirmText="Do you wish to discontinue this product?" TargetControlID="DeleteProduct" />
 
         <%-- validation --%>
        <%--  <asp:ValidationSummary ID="ProductValidation" runat="server"
