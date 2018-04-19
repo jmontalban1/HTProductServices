@@ -8,6 +8,8 @@
              <asp:Button ID="Search" runat="server" Text="Search" OnClick="Search_Click" />&nbsp;&nbsp;
              <asp:Button ID="Clear" runat="server" Text="Clear" Height="26px" Width="63px" OnClick="Clear_Click" />&nbsp;&nbsp;    
             <asp:LinkButton ID="AddProduct" runat="server" Font-Size="X-Large" OnClick="Add_Click">Add</asp:LinkButton>&nbsp;&nbsp;
+         <asp:LinkButton ID="UpdateProduct" runat="server" Font-Size="X-Large" OnClick="Update_Click">Update</asp:LinkButton>&nbsp;&nbsp;
+         <asp:LinkButton ID="DeleteProduct" runat="server" Font-Size="X-Large">Delete</asp:LinkButton>&nbsp;&nbsp;
 
         <br />
         <br />
@@ -19,6 +21,17 @@
         <br />
         <br />
 
+        <%-- validation --%>
+         <asp:ValidationSummary ID="ProductValidation" runat="server"
+                  HeaderText="Please correct your input to resolve the following issues." />
+         <asp:RequiredFieldValidator ID="RequiredFieldName" runat="server" 
+                 ErrorMessage="Product Name is required."
+                 Display="None" ControlToValidate="Name" SetFocusOnError="True">
+             </asp:RequiredFieldValidator>
+<%--         <asp:RequiredFieldValidator ID="RequiredFieldModelNumber" runat="server" 
+                 ErrorMessage="Model Number is required."
+                 Display="None" ControlToValidate="ModelNumber" SetFocusOnError="True">
+             </asp:RequiredFieldValidator>--%>
 
         <div class="col-md-12">
             <fieldset class="form-horizontal">

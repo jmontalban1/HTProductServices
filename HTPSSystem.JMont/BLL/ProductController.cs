@@ -35,9 +35,18 @@ namespace HTPSSystem.JMont.BLL
             {
                 var existing = context.Product.Find(productid);
                 existing.Discontinued = true;
-                context.Entry(existing).State = System.Data.Entity.EntityState.Modified;
+                context.Entry(existing).State = System.Data.Entity.EntityState.Modified; //alter
                 context.SaveChanges();
 
+                return context.SaveChanges();
+            }
+        }
+
+        public int Product_Update(Product item)
+        {
+            using (var context = new HTPSContext())
+            {
+                context.Entry(item).State = System.Data.Entity.EntityState.Modified; //ater
                 return context.SaveChanges();
             }
         }

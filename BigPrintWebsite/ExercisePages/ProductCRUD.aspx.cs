@@ -185,5 +185,84 @@ namespace BigPrintWebsite.ExercisePages
                 LoadMessageDisplay(errormsgs, "alert alert-danger");
             }
         }
+
+        protected void Update_Click(object sender, EventArgs e)
+        {
+            if (Page.IsValid)
+            { 
+                if (string.IsNullOrEmpty(ProductID.Text))                
+                {
+                    errormsgs.Add("Update requires you to search for the product first.");
+                }
+            }
+            else
+            {
+                int temp = 0;
+                if (!int.TryParse(ProductID.Text, out temp))
+                {
+                    errormsgs.Add("Invalid Product ID");
+                }
+            }
+            try
+            {
+                Product item = new Product();
+                item.ProductID = int.Parse(ProductID.Text);
+                item.Name = Name.Text;
+                item.ModelNumber = ModelNumber.Text;
+
+                ProductController sysmgr = new ProductController();
+
+                int rowsaffect = sysmgr.Product_Update(item);
+                //    or if no rows were changed
+                if (rowsaffect > 0)
+                {
+                    errormsgs.Add("Product was updated");
+                    LoadMessageDisplay(errormsgs, "alert alert-success");
+
+                    //remember to refresh any other necessary associated controls
+                    ProductsDataBind();
+                    ProductList.SelectedValue = ProductID.Text;
+                }
+                else
+                {
+                    errormsgs.Add("Product does not appear to be on file. Look up the product again.");
+                    LoadMessageDisplay(errormsgs, "alert alert-warning");
+                    ProductsDataBind();
+                }
+            }
+            catch (DbUpdateException ex)
+            {
+                UpdateException updateException = (UpdateException)ex.InnerException;
+                if (updateException.InnerException != null)
+                {
+                    errormsgs.Add(updateException.InnerException.Message.ToString());
+                }
+                else
+                {
+                    errormsgs.Add(updateException.Message);
+                }
+                LoadMessageDisplay(errormsgs, "alert alert-danger");
+            }
+            catch (DbEntityValidationException ex)
+            {
+                foreach (var entityValidationErrors in ex.EntityValidationErrors)
+                {
+                    foreach (var validationError in entityValidationErrors.ValidationErrors)
+                    {
+                        errormsgs.Add(validationError.ErrorMessage);
+                    }
+                }
+                LoadMessageDisplay(errormsgs, "alert alert-danger");
+            }
+            catch (Exception ex)
+            {
+                errormsgs.Add(GetInnerException(ex).ToString());
+                LoadMessageDisplay(errormsgs, "alert alert-danger");
+            }
+
+
+
+
+        }
     }
 }
