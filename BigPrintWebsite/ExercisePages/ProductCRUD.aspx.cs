@@ -146,6 +146,16 @@ namespace BigPrintWebsite.ExercisePages
                 item.ModelNumber = ModelNumber.Text;
 
                 item.Discontinued = Discontinued.Checked;
+
+                if (Discontinued.Checked)
+                {
+                    item.DiscontinuedDate = DateTime.Now;
+                }
+                else if (!Discontinued.Checked)
+                {
+                    item.DiscontinuedDate = null;
+                }
+
                 ProductController sysmgr = new ProductController();
 
                 int pkey = sysmgr.Product_Add(item);
@@ -156,6 +166,7 @@ namespace BigPrintWebsite.ExercisePages
                 LoadMessageDisplay(errormsgs, "alert alert-success");
 
                 ProductsDataBind();
+                DiscontinuedDate.Text = item.DiscontinuedDate.ToString();
             }
             catch (DbUpdateException ex)
             {
@@ -219,7 +230,11 @@ namespace BigPrintWebsite.ExercisePages
                 if (Discontinued.Checked)
                 {
                     //if(!string.IsNullOrEmpty(DiscontinuedDate.Text))
-                        item.DiscontinuedDate = DateTime.Now;
+                    item.DiscontinuedDate = DateTime.Now;
+                }
+                else if (!Discontinued.Checked)
+                {
+                    item.DiscontinuedDate = null;
                 }
          
                 int rowsaffect = sysmgr.Product_Update(item);
@@ -232,6 +247,8 @@ namespace BigPrintWebsite.ExercisePages
                     //remember to refresh any other necessary associated controls
                     ProductsDataBind();
                     ProductList.SelectedValue = ProductID.Text;
+                    DiscontinuedDate.Text = item.DiscontinuedDate.ToString();
+
                 }
                 else
                 {
