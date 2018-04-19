@@ -189,8 +189,8 @@ namespace BigPrintWebsite.ExercisePages
         protected void Update_Click(object sender, EventArgs e)
         {
             if (Page.IsValid)
-            { 
-                if (string.IsNullOrEmpty(ProductID.Text))                
+            {
+                if (string.IsNullOrEmpty(ProductID.Text))
                 {
                     errormsgs.Add("Update requires you to search for the product first.");
                 }
@@ -264,5 +264,85 @@ namespace BigPrintWebsite.ExercisePages
 
 
         }
+        protected void Delete_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(ProductID.Text))
+            {
+                errormsgs.Add("Delete requires you to search for the product first.");
+            }
+            else
+            {
+                int temp = 0;
+                if (!int.TryParse(ProductID.Text, out temp))
+                {
+                    errormsgs.Add("Product ID is invalid");
+                }
+            }
+            if (errormsgs.Count() > 0)
+            {
+                LoadMessageDisplay(errormsgs, "alert alert-info");
+            }
+            else
+            {
+
+
+                try
+                {
+                    ProductController sysmgr = new ProductController();
+
+                    //method call returns the number of rows affected
+                    int rowsaffect = sysmgr.Product_Delete(int.Parse(ProductID.Text));
+
+                    //if the call was successful and changed rows
+                    //    or if no rows were changed
+                    if (rowsaffect > 0)
+                    {
+                        errormsgs.Add("Product is discontinued");
+                        LoadMessageDisplay(errormsgs, "alert alert-success");
+                        ProductsDataBind();
+                        //reposition
+                        ProductList.SelectedValue = ProductID.Text;
+                        Discontinued.Checked = true;
+                    }
+                    else
+                    {
+                        errormsgs.Add("Product does not appear to be on file. Look up the product again.");
+                        LoadMessageDisplay(errormsgs, "alert alert-warning");
+                        ProductsDataBind();
+                    }
+                }
+                catch (DbUpdateException ex)
+                {
+                    UpdateException updateException = (UpdateException)ex.InnerException;
+                    if (updateException.InnerException != null)
+                    {
+                        errormsgs.Add(updateException.InnerException.Message.ToString());
+                    }
+                    else
+                    {
+                        errormsgs.Add(updateException.Message);
+                    }
+                    LoadMessageDisplay(errormsgs, "alert alert-danger");
+                }
+                catch (DbEntityValidationException ex)
+                {
+                    foreach (var entityValidationErrors in ex.EntityValidationErrors)
+                    {
+                        foreach (var validationError in entityValidationErrors.ValidationErrors)
+                        {
+                            errormsgs.Add(validationError.ErrorMessage);
+                        }
+                    }
+                    LoadMessageDisplay(errormsgs, "alert alert-danger");
+                }
+                catch (Exception ex)
+                {
+                    errormsgs.Add(GetInnerException(ex).ToString());
+                    LoadMessageDisplay(errormsgs, "alert alert-danger");
+                }
+            }
+
+        }
+
     }
 }

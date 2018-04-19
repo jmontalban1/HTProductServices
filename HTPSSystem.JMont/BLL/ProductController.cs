@@ -29,6 +29,10 @@ namespace HTPSSystem.JMont.BLL
                 return context.Product.Find(productid);
             }
         }
+        public int ProductDelete(Product item)
+        {
+            return Product_Delete(item.ProductID);
+        }
         public int Product_Delete(int productid)
         {
             using (var context = new HTPSContext())
@@ -36,11 +40,13 @@ namespace HTPSSystem.JMont.BLL
                 var existing = context.Product.Find(productid);
                 existing.Discontinued = true;
                 context.Entry(existing).State = System.Data.Entity.EntityState.Modified; //alter
-                context.SaveChanges();
+             
 
                 return context.SaveChanges();
             }
         }
+
+      
 
         public int Product_Update(Product item)
         {
