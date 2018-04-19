@@ -141,14 +141,18 @@ namespace BigPrintWebsite.ExercisePages
             {
                 Product item = new Product();
                 item.Name = Name.Text;
+                item.ModelNumber = ModelNumber.Text;
 
                 item.Discontinued = Discontinued.Checked;
                 ProductController sysmgr = new ProductController();
 
                 int pkey = sysmgr.Product_Add(item);
+
+
                 ProductID.Text = pkey.ToString();
                 errormsgs.Add("Product was added");
                 LoadMessageDisplay(errormsgs, "alert alert-success");
+
                 ProductsDataBind();
             }
             catch (DbUpdateException ex)
