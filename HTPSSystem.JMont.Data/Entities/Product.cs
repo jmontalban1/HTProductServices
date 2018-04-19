@@ -36,20 +36,11 @@ namespace HTPSSystem.JMont.Data.Entities
             }
             set
             {
-                if (!string.IsNullOrEmpty(value.ToString()))
-                {
-                    _DiscontinuedDate = value;
-                }
-                else
-                {
+                if (value.HasValue && value.Value.Equals(DateTime.MinValue))
                     _DiscontinuedDate = null;
-                }
-            }
-
+                else
+                    _DiscontinuedDate = value;
+            }   
         }
-
-
-
-
     }
 }

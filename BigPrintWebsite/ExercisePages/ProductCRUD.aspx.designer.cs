@@ -166,12 +166,21 @@ namespace BigPrintWebsite.ExercisePages {
         protected global::System.Web.UI.WebControls.CheckBox Discontinued;
         
         /// <summary>
-        /// ProductSelectionList control.
+        /// Label6 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView ProductSelectionList;
+        protected global::System.Web.UI.WebControls.Label Label6;
+        
+        /// <summary>
+        /// DiscontinuedDate control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox DiscontinuedDate;
     }
 }

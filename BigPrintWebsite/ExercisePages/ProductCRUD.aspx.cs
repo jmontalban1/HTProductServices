@@ -190,6 +190,7 @@ namespace BigPrintWebsite.ExercisePages
 
         protected void Update_Click(object sender, EventArgs e)
         {
+           
             if (Page.IsValid)
             {
                 if (string.IsNullOrEmpty(ProductID.Text))
@@ -207,13 +208,20 @@ namespace BigPrintWebsite.ExercisePages
             }
             try
             {
+                ProductController sysmgr = new ProductController();
+
                 Product item = new Product();
                 item.ProductID = int.Parse(ProductID.Text);
                 item.Name = Name.Text;
                 item.ModelNumber = ModelNumber.Text;
 
-                ProductController sysmgr = new ProductController();
-
+                item.Discontinued = Discontinued.Checked;
+                if (Discontinued.Checked)
+                {
+                    //if(!string.IsNullOrEmpty(DiscontinuedDate.Text))
+                        item.DiscontinuedDate = DateTime.Now;
+                }
+         
                 int rowsaffect = sysmgr.Product_Update(item);
                 //    or if no rows were changed
                 if (rowsaffect > 0)
@@ -261,10 +269,6 @@ namespace BigPrintWebsite.ExercisePages
                 errormsgs.Add(GetInnerException(ex).ToString());
                 LoadMessageDisplay(errormsgs, "alert alert-danger");
             }
-
-
-
-
         }
         protected void Delete_Click(object sender, EventArgs e)
         {

@@ -9,7 +9,7 @@
              <asp:Button ID="Clear" runat="server" Text="Clear" Height="26px" Width="63px" OnClick="Clear_Click" />&nbsp;&nbsp;    
             <asp:LinkButton ID="AddProduct" runat="server" Font-Size="X-Large" OnClick="Add_Click">Add</asp:LinkButton>&nbsp;&nbsp;
          <asp:LinkButton ID="UpdateProduct" runat="server" Font-Size="X-Large" OnClick="Update_Click">Update</asp:LinkButton>&nbsp;&nbsp;
-         <asp:LinkButton ID="DeleteProduct" runat="server" Font-Size="X-Large" OnClick="Delete_Click">Delete</asp:LinkButton>&nbsp;&nbsp;
+         <asp:LinkButton ID="DeleteProduct" runat="server" Font-Size="X-Large" OnClick="Delete_Click">Delete</asp:LinkButton>&nbsp;&nbsp;       
 
         <br />
         <br />
@@ -55,6 +55,10 @@
                 <asp:Label ID="Label4" runat="server" Text="Status"
                     AssociatedControlID="Discontinued"></asp:Label>
                 <asp:CheckBox ID="Discontinued" runat="server" Text="Discontinued"></asp:CheckBox>
+          
+                 <asp:Label ID="Label6" runat="server" Text="Discontinued Date"
+                     AssociatedControlID="DiscontinuedDate"></asp:Label>
+                 <asp:TextBox ID="DiscontinuedDate" runat="server" PlaceHolder="dd/mm/year" Enabled="false"></asp:TextBox>
 
             </fieldset>
         </div>
@@ -62,7 +66,7 @@
 
         <%-- Gridview --%>
 
-        <div class="col-md-6">
+      <%--  <div class="col-md-6">
             <asp:GridView ID="ProductSelectionList" runat="server" OnSelectedIndexChanged="ProductSelectionList_SelectedIndexChanged" AutoGenerateColumns="False"
                 CssClass="table" GridLines="Horizontal" BorderStyle="None" AllowPaging="True" OnPageIndexChanging="ProductSelectionList_PageIndexChanging" PageSize="5" >
                 <Columns>
@@ -98,7 +102,7 @@
                 </EmptyDataTemplate>
                 <PagerSettings Mode="NumericFirstLast" PageButtonCount="3" />
             </asp:GridView>
-        </div>
+        </div>>--%>
     </div>
     <script src="../Scripts/bootwrap-freecode.js"></script>
 </asp:Content>

@@ -46,8 +46,6 @@ namespace HTPSSystem.JMont.BLL
             }
         }
 
-      
-
         public int Product_Update(Product item)
         {
             using (var context = new HTPSContext())
