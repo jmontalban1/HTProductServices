@@ -166,7 +166,8 @@ namespace BigPrintWebsite.ExercisePages
                 LoadMessageDisplay(errormsgs, "alert alert-success");
 
                 ProductsDataBind();
-                DiscontinuedDate.Text = item.DiscontinuedDate.ToString();
+                //DiscontinuedDate.Text = item.DiscontinuedDate.ToString();
+                DiscontinuedDate.Text = string.Format("{0:ddd, MMM d, yyyy}", item.DiscontinuedDate);
             }
             catch (DbUpdateException ex)
             {
@@ -247,7 +248,8 @@ namespace BigPrintWebsite.ExercisePages
                     //remember to refresh any other necessary associated controls
                     ProductsDataBind();
                     ProductList.SelectedValue = ProductID.Text;
-                    DiscontinuedDate.Text = item.DiscontinuedDate.ToString();
+                    //DiscontinuedDate.Text = item.DiscontinuedDate.ToString();
+                    DiscontinuedDate.Text = string.Format("{0:ddd, MMM d, yyyy}", item.DiscontinuedDate);
 
                 }
                 else
