@@ -66,7 +66,7 @@
 
         <%-- Gridview --%>
 
-      <%--  <div class="col-md-6">
+      <div class="col-md-6">
             <asp:GridView ID="ProductSelectionList" runat="server" OnSelectedIndexChanged="ProductSelectionList_SelectedIndexChanged" AutoGenerateColumns="False"
                 CssClass="table" GridLines="Horizontal" BorderStyle="None" AllowPaging="True" OnPageIndexChanging="ProductSelectionList_PageIndexChanging" PageSize="5" >
                 <Columns>
@@ -102,7 +102,7 @@
                 </EmptyDataTemplate>
                 <PagerSettings Mode="NumericFirstLast" PageButtonCount="3" />
             </asp:GridView>
-        </div>>--%>
+        </div>
     </div>
     <script src="../Scripts/bootwrap-freecode.js"></script>
 </asp:Content>

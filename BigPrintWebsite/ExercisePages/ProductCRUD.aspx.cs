@@ -96,6 +96,8 @@ namespace BigPrintWebsite.ExercisePages
                     //check the result of the method execution
                     //if the record was not found, the Product instance
                     //     will be null
+                    ProductSelectionList.DataSource = info;
+                    ProductSelectionList.DataBind();
                     if (info == null)
                     {
                         errormsgs.Add("Product not found. Try again");
@@ -112,13 +114,36 @@ namespace BigPrintWebsite.ExercisePages
                         ProductID.Text = info.ProductID.ToString();
                         Name.Text = info.Name;
                         ModelNumber.Text = info.ModelNumber;
-                        
-
 
                         //Discontinued is a checkbox which is a bool set
                         Discontinued.Checked = info.Discontinued;
 
                     }
+
+                }
+                catch (DbUpdateException ex)
+                {
+                    UpdateException updateException = (UpdateException)ex.InnerException;
+                    if (updateException.InnerException != null)
+                    {
+                        errormsgs.Add(updateException.InnerException.Message.ToString());
+                    }
+                    else
+                    {
+                        errormsgs.Add(updateException.Message);
+                    }
+                    LoadMessageDisplay(errormsgs, "alert alert-danger");
+                }
+                catch (DbEntityValidationException ex)
+                {
+                    foreach (var entityValidationErrors in ex.EntityValidationErrors)
+                    {
+                        foreach (var validationError in entityValidationErrors.ValidationErrors)
+                        {
+                            errormsgs.Add(validationError.ErrorMessage);
+                        }
+                    }
+                    LoadMessageDisplay(errormsgs, "alert alert-danger");
                 }
                 catch (Exception ex)
                 {
@@ -367,6 +392,77 @@ namespace BigPrintWebsite.ExercisePages
                     LoadMessageDisplay(errormsgs, "alert alert-danger");
                 }
             }
+
+        }
+
+       
+
+        protected void ProductSelectionList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+            //extract a value (primary key) from the GridViewRow
+            //pass to the BLL controller
+            //receive back a record (Product)
+            //fill the display Labels with data
+            try
+            {
+                //get a pointer to the gridview row that was selected
+                GridViewRow agvrow = ProductSelectionList.Rows[ProductSelectionList.SelectedIndex];
+                //access a specific control on the gridview row
+                //data in the control is accessed by the control access method
+
+                int productid = int.Parse((agvrow.FindControl("ProductID") as Label).Text);
+                ProductController sysmgr = new ProductController();
+                Product info = sysmgr.Product_Find(productid);
+                ProductID.Text = info.ProductID.ToString();
+                Name.Text = info.Name;
+                //UnitPrice.Text = string.Format("{0:0.00}", info.UnitPrice);
+                //UnitsInStock.Text = info.UnitsInStock.ToString();
+            }
+            catch (DbUpdateException ex)
+            {
+                UpdateException updateException = (UpdateException)ex.InnerException;
+                if (updateException.InnerException != null)
+                {
+                    errormsgs.Add(updateException.InnerException.Message.ToString());
+                }
+                else
+                {
+                    errormsgs.Add(updateException.Message);
+                }
+                LoadMessageDisplay(errormsgs, "alert alert-danger");
+            }
+            catch (DbEntityValidationException ex)
+            {
+                foreach (var entityValidationErrors in ex.EntityValidationErrors)
+                {
+                    foreach (var validationError in entityValidationErrors.ValidationErrors)
+                    {
+                        errormsgs.Add(validationError.ErrorMessage);
+                    }
+                }
+                LoadMessageDisplay(errormsgs, "alert alert-danger");
+            }
+            catch (Exception ex)
+            {
+                errormsgs.Add(GetInnerException(ex).ToString());
+                LoadMessageDisplay(errormsgs, "alert alert-danger");
+            }
+        }
+
+
+
+
+        //gridview part
+
+
+        protected void ProductSelectionList_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        {
+            //step 1) change the PageIndex of the GridView using the NewPageIndex under e
+            ProductSelectionList.PageIndex = e.NewPageIndex;
+
+            //step 2) refresh your GridView by re-executing the call to the BLL.
+            Search_Click(sender, new EventArgs());
 
         }
 
