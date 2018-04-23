@@ -20,7 +20,8 @@ namespace BigPrintWebsite.ExercisePages
             Message.Text = "";
             if (!Page.IsPostBack)
             {
-                RegistrationDataBind();
+                //RegistrationDataBind();
+                
             }
         }
         protected Exception GetInnerException(Exception ex)
@@ -33,23 +34,23 @@ namespace BigPrintWebsite.ExercisePages
             return ex;
         }
 
-        protected void RegistrationDataBind()
-        {
-            RegistrationController sysmgr = new RegistrationController();
+        //protected void RegistrationDataBind()
+        //{
+        //    RegistrationController sysmgr = new RegistrationController();
 
-                List<Registration> info = sysmgr.Registration_List();
+        //        List<Registration> info = sysmgr.Registration_List();
 
-            //inform control of the data source
-            RegistrationList.DataSource = info;
-            //set the DisplayText and ValueText fields to the
-            //    appropriate Property names in the Entity
-            RegistrationList.DataTextField = "SerialNumber";
-            //CustomerList.DataTextField = "Email";
-            //CustomerList.DataTextField = "ContactNumber";
-            //physically attach data to control
-            RegistrationList.DataBind();
+        //    //inform control of the data source
+        //    RegistrationList.DataSource = info;
+        //    //set the DisplayText and ValueText fields to the
+        //    //    appropriate Property names in the Entity
+        //    RegistrationList.DataTextField = "SerialNumber";
+        //    //CustomerList.DataTextField = "Email";
+        //    //CustomerList.DataTextField = "ContactNumber";
+        //    //physically attach data to control
+        //    RegistrationList.DataBind();
 
-        }
+        //}
 
     }
 }

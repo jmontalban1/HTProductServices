@@ -67,33 +67,33 @@
         <%-- Gridview --%>
 
       <div class="col-md-6">
-            <asp:GridView ID="ProductSelectionList" runat="server" OnSelectedIndexChanged="ProductSelectionList_SelectedIndexChanged" AutoGenerateColumns="False"
-                CssClass="table" GridLines="Horizontal" BorderStyle="None" AllowPaging="True" OnPageIndexChanging="ProductSelectionList_PageIndexChanging" PageSize="5" >
+            <asp:GridView ID="RegistrationList" runat="server"  AutoGenerateColumns="False"
+                CssClass="table" GridLines="Horizontal" BorderStyle="None" AllowPaging="True" OnPageIndexChanging="RegistrationList_PageIndexChanging" PageSize="5" >
                 <Columns>
                     <asp:CommandField ShowSelectButton="True" />
-                    <asp:TemplateField >
-                        <ItemTemplate>
-                            <asp:Label ID="ProductID" runat="server" 
-                                Text='<%# Eval("ProductID") %>'
-                                 Visible="false"></asp:Label>
-                        </ItemTemplate>
-                    </asp:TemplateField>
-                    <asp:TemplateField HeaderText="Name">
+                    <asp:TemplateField HeaderText="Serial Number">
                         <ItemTemplate>
                             <asp:Label ID="Label11" runat="server" 
-                                Text='<%# Eval("Name") %>'></asp:Label>
+                                Text='<%# Eval("SerialNumber") %>'></asp:Label>
                         </ItemTemplate>
                     </asp:TemplateField>
-                    <asp:TemplateField HeaderText="ModelNumber">
+                    <asp:TemplateField HeaderText="Date">
+                        <ItemTemplate>
+                            <asp:Label ID="Label11" runat="server" 
+                                Text='<%# Eval("DateOfPurchase") %>'></asp:Label>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+                    <asp:TemplateField HeaderText="Sources">
                          <ItemTemplate>
                             <asp:Label ID="Label12" runat="server" 
-                                Text='<%# Eval("ModelNumber") %>'></asp:Label>
+                                Text='<%# Eval("PurchasedFrom") %>'></asp:Label>
                         </ItemTemplate>
                     </asp:TemplateField>
-                    <asp:TemplateField HeaderText="Disc">
+
+                    <asp:TemplateField HeaderText="Province">
                          <ItemTemplate>
-                            <asp:checkBox ID="Label13" runat="server" 
-                                Checked='<%# Eval("Discontinued") %>'></asp:checkBox>
+                            <asp:Label ID="Label12" runat="server" 
+                                Text='<%# Eval("PurchaseProvince") %>'></asp:Label>
                         </ItemTemplate>
                     </asp:TemplateField>
                 </Columns>

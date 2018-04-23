@@ -21,7 +21,7 @@ namespace HTPSSystem.JMont.Data.Entities
         public int CustomerID { get; set; }
         public string SerialNumber { get; set; }
         public DateTime DateOfPurchase { get; set; }
-        public string PurchasesFrom { get; set; }
+        public string PurchasedFrom { get; set; }
         public string PurchaseProvince { get; set; }
 
     }
