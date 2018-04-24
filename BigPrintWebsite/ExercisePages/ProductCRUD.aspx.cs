@@ -117,6 +117,10 @@ namespace BigPrintWebsite.ExercisePages
 
                         //Discontinued is a checkbox which is a bool set
                         Discontinued.Checked = info.Discontinued;
+                        DiscontinuedDate.Text = info.DiscontinuedDate.ToString();
+                        DiscontinuedDate.Text = string.Format("{0:ddd, MMM d, yyyy}", info.DiscontinuedDate);
+
+
                     }
                     RegistrationController sysmgrreg = new RegistrationController();
                     List<Registration> infoRegistration = sysmgrreg.Registration_List(info.ProductID);
@@ -187,7 +191,7 @@ namespace BigPrintWebsite.ExercisePages
 
                 int pkey = sysmgr.Product_Add(item);
 
-
+                DiscontinuedDate.Text = item.DiscontinuedDate.ToString();
                 ProductID.Text = pkey.ToString();
                 errormsgs.Add("Product was added");
                 LoadMessageDisplay(errormsgs, "alert alert-success");
@@ -276,7 +280,7 @@ namespace BigPrintWebsite.ExercisePages
                     ProductsDataBind();
                     ProductList.SelectedValue = ProductID.Text;
                     //DiscontinuedDate.Text = item.DiscontinuedDate.ToString();
-                    DiscontinuedDate.Text = string.Format("{0:ddd, MMM d, yyyy}", item.DiscontinuedDate);
+                    DiscontinuedDate.Text = string.Format("{0:MMM d, yyyy}", item.DiscontinuedDate);
 
                 }
                 else
