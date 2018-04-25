@@ -27,14 +27,14 @@ namespace HTPSSystem.JMont.BLL
                 return context.Registration.ToList();
             }
         }
-        [DataObjectMethod(DataObjectMethodType.Select)]
+        [DataObjectMethod(DataObjectMethodType.Select, false)]
         public List<Registration> Registration_Model(string modelnumber)
         {
             using (var context = new HTPSContext())
             {
                 var results = context.Database.SqlQuery<Registration>("Registration_GetByModelNumber @ModelNumber",
-                    new SqlParameter("ModelNumber", @modelnumber));
-                return context.Registration.ToList();
+                    new SqlParameter("ModelNumber", modelnumber));
+                return results.ToList();
             }
 
         }
