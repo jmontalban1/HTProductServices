@@ -12,6 +12,7 @@ using System.ComponentModel.DataAnnotations;
 namespace HTPSSystem.JMont.Data.Entities
 
 {
+    
     [Table("Customer")]
     public class Customer
     {

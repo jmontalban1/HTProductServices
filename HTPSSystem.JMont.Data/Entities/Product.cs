@@ -42,5 +42,14 @@ namespace HTPSSystem.JMont.Data.Entities
                     _DiscontinuedDate = value;
             }   
         }
+
+        [NotMapped]
+        public string FullInfo
+        {
+            get
+            {
+                return ModelNumber + ", " + Name;
+            }
+        }
     }
 }

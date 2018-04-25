@@ -7,13 +7,16 @@ using System.Threading.Tasks;
 #region Additional Namespaces
 using HTPSSystem.JMont.Data.Entities;
 using HTPSSystem.JMont.DAL;
+using System.ComponentModel;
 #endregion
 
 namespace HTPSSystem.JMont.BLL
 
 {
-   public class ProductController
+    [DataObject]
+    public class ProductController
     {
+        [DataObjectMethod(DataObjectMethodType.Select)]
         public List<Product> Product_List()
         {
             using (var context = new HTPSContext())

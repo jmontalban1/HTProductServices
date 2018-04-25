@@ -56,6 +56,5 @@ C:\Users\John's Gaming PC\Documents\GitHub\HTProductServices\HTPSSystem.JMont.Da
 C:\Users\John's Gaming PC\Documents\GitHub\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb
 C:\Users\JM's Property\Documents\GitHub\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.dll
 C:\Users\JM's Property\Documents\GitHub\HTProductServices\HTPSSystem.JMont.Data\bin\Debug\Northwind.Data.pdb
-C:\Users\JM's Property\Documents\GitHub\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\HTPSSystem.JMont.Data.csprojResolveAssemblyReference.cache
 C:\Users\JM's Property\Documents\GitHub\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.dll
 C:\Users\JM's Property\Documents\GitHub\HTProductServices\HTPSSystem.JMont.Data\obj\Debug\Northwind.Data.pdb

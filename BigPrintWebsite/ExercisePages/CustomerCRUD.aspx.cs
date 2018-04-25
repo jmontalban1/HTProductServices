@@ -8,14 +8,17 @@ using System.Web.UI.WebControls;
 #region Additional Namespaces
 using HTPSSystem.JMont.BLL;
 using HTPSSystem.JMont.Data.Entities;
+using System.ComponentModel;
 #endregion
+
 
 
 namespace BigPrintWebsite.ExercisePages
 {
+  
     public partial class CustomerCRUD : System.Web.UI.Page
     {
-            protected void Page_Load(object sender, EventArgs e)
+        protected void Page_Load(object sender, EventArgs e)
         {
             Message.Text = "";
             if (!Page.IsPostBack)
@@ -32,6 +35,8 @@ namespace BigPrintWebsite.ExercisePages
             }
             return ex;
         }
+
+       
         protected void CustomerDataBind()
         {
             //the web page needs to access the BLL class method

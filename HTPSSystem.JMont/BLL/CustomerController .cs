@@ -12,8 +12,10 @@ using System.ComponentModel;
 
 namespace HTPSSystem.JMont.BLL
 {
+    [DataObject]
   public class CustomerController
     {
+        [DataObjectMethod(DataObjectMethodType.Select)]
         public List<Customer> Customers_List()
         {
             using (var context = new HTPSContext())

@@ -8,12 +8,15 @@ using System.Threading.Tasks;
 using HTPSSystem.JMont.Data.Entities;
 using HTPSSystem.JMont.DAL;
 using System.Data.SqlClient;
+using System.ComponentModel;
 #endregion
 
 namespace HTPSSystem.JMont.BLL
 {
+    [DataObject]
    public class RegistrationController
     {
+           [DataObjectMethod(DataObjectMethodType.Select)]
         public List<Registration> Registration_List(int productid)
         {
             using (var context = new HTPSContext())
@@ -23,6 +26,17 @@ namespace HTPSSystem.JMont.BLL
                     new SqlParameter("ProductID", @productid));
                 return context.Registration.ToList();
             }
+        }
+        [DataObjectMethod(DataObjectMethodType.Select)]
+        public List<Registration> Registration_Model(string modelnumber)
+        {
+            using (var context = new HTPSContext())
+            {
+                var results = context.Database.SqlQuery<Registration>("Registration_GetByModelNumber @ModelNumber",
+                    new SqlParameter("ModelNumber", @modelnumber));
+                return context.Registration.ToList();
+            }
+
         }
 
         
