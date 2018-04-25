@@ -10,7 +10,7 @@
 namespace BigPrintWebsite.ExercisePages {
     
     
-    public partial class ProductCRUD {
+    public partial class GridView {
         
         /// <summary>
         /// Label5 control.
@@ -40,42 +40,6 @@ namespace BigPrintWebsite.ExercisePages {
         protected global::System.Web.UI.WebControls.Button Search;
         
         /// <summary>
-        /// Clear control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Clear;
-        
-        /// <summary>
-        /// AddProduct control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton AddProduct;
-        
-        /// <summary>
-        /// UpdateProduct control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton UpdateProduct;
-        
-        /// <summary>
-        /// DeleteProduct control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton DeleteProduct;
-        
-        /// <summary>
         /// MessageList control.
         /// </summary>
         /// <remarks>
@@ -83,15 +47,6 @@ namespace BigPrintWebsite.ExercisePages {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DataList MessageList;
-        
-        /// <summary>
-        /// DeleteProduct_ConfirmButtonExtender control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::AjaxControlToolkit.ConfirmButtonExtender DeleteProduct_ConfirmButtonExtender;
         
         /// <summary>
         /// Label1 control.
@@ -182,5 +137,14 @@ namespace BigPrintWebsite.ExercisePages {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox DiscontinuedDate;
+        
+        /// <summary>
+        /// RegistrationList control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView RegistrationList;
     }
 }

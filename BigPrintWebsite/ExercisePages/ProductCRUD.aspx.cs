@@ -122,10 +122,10 @@ namespace BigPrintWebsite.ExercisePages
 
 
                     }
-                    RegistrationController sysmgrreg = new RegistrationController();
-                    List<Registration> infoRegistration = sysmgrreg.Registration_List(info.ProductID);
-                    RegistrationList.DataSource = infoRegistration;
-                    RegistrationList.DataBind();
+                    //RegistrationController sysmgrreg = new RegistrationController();
+                    //List<Registration> infoRegistration = sysmgrreg.Registration_List(info.ProductID);
+                    //RegistrationList.DataSource = infoRegistration;
+                    //RegistrationList.DataBind();
                 }
                 catch (DbUpdateException ex)
                 {
@@ -404,15 +404,15 @@ namespace BigPrintWebsite.ExercisePages
         //gridview part
 
 
-        protected void RegistrationList_PageIndexChanging(object sender, GridViewPageEventArgs e)
-        {
-            //step 1) change the PageIndex of the GridView using the NewPageIndex under e
-            RegistrationList.PageIndex = e.NewPageIndex;
+        //protected void RegistrationList_PageIndexChanging(object sender, GridViewPageEventArgs e)
+        //{
+        //    //step 1) change the PageIndex of the GridView using the NewPageIndex under e
+        //    RegistrationList.PageIndex = e.NewPageIndex;
 
-            //step 2) refresh your GridView by re-executing the call to the BLL.
-            Search_Click(sender, new EventArgs());
+        //    //step 2) refresh your GridView by re-executing the call to the BLL.
+        //    Search_Click(sender, new EventArgs());
 
-        }
+        //}
 
     }
 }

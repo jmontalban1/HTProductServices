@@ -8,6 +8,7 @@
     <siteMapNode url="" title="Exercise Pages"  description="">
       <siteMapNode url="~/ExercisePages/CustomerCRUD.aspx" title="Customer CRUD"  description="" />
       <siteMapNode url="~/ExercisePages/ProductCRUD.aspx" title="Product CRUD"  description="" />
+        <siteMapNode url="~/ExercisePages/GridView.aspx" title="Gridview"  description="" />
 </siteMapNode>
     
     <siteMapNode url="" title="Default Web Form"  description="root">

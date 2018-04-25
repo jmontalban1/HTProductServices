@@ -209,6 +209,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="ExercisePages\CustomerCRUD.aspx" />
     <Content Include="ExercisePages\DefaultWebForm.aspx" />
+    <Content Include="ExercisePages\GridView.aspx" />
     <Content Include="ExercisePages\ProductCRUD.aspx" />
     <Content Include="ExercisePages\RegistrationCRUD.aspx" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -418,6 +419,13 @@
     </Compile>
     <Compile Include="ExercisePages\DefaultWebForm.aspx.designer.cs">
       <DependentUpon>DefaultWebForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExercisePages\GridView.aspx.cs">
+      <DependentUpon>GridView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExercisePages\GridView.aspx.designer.cs">
+      <DependentUpon>GridView.aspx</DependentUpon>
     </Compile>
     <Compile Include="ExercisePages\ProductCRUD.aspx.cs">
       <DependentUpon>ProductCRUD.aspx</DependentUpon>

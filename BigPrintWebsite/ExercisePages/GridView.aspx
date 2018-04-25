@@ -1,15 +1,13 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="ProductCRUD.aspx.cs" Inherits="BigPrintWebsite.ExercisePages.ProductCRUD" %>
-
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="GridView.aspx.cs" Inherits="BigPrintWebsite.ExercisePages.GridView" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+
+
 
     <div class="col-md-12">
         <asp:Label ID="Label5" runat="server" Text="Select a product"></asp:Label>&nbsp;&nbsp;
              <asp:DropDownList ID="ProductList" runat="server"></asp:DropDownList>&nbsp;&nbsp;
              <asp:Button ID="Search" runat="server" Text="Search" OnClick="Search_Click" />&nbsp;&nbsp;
-             <asp:Button ID="Clear" runat="server" Text="Clear" Height="26px" Width="63px" OnClick="Clear_Click" />&nbsp;&nbsp;    
-            <asp:LinkButton ID="AddProduct" runat="server" Font-Size="X-Large" OnClick="Add_Click">Add</asp:LinkButton>&nbsp;&nbsp;
-         <asp:LinkButton ID="UpdateProduct" runat="server" Font-Size="X-Large" OnClick="Update_Click">Update</asp:LinkButton>&nbsp;&nbsp;
-         <asp:LinkButton ID="DeleteProduct" runat="server" Font-Size="X-Large" OnClick="Delete_Click">Delete</asp:LinkButton>&nbsp;&nbsp;       
+               
 
         <br />
         <br />
@@ -20,7 +18,7 @@
         </asp:DataList>
         <br />
         <br />
-        <ajaxToolkit:ConfirmButtonExtender ID="DeleteProduct_ConfirmButtonExtender" runat="server" BehaviorID="DeleteProduct_ConfirmButtonExtender" ConfirmText="Do you wish to discontinue this product?" TargetControlID="DeleteProduct" />
+     
 
         <%-- validation --%>
   <%--      <asp:ValidationSummary ID="ProductValidation" runat="server"
@@ -65,12 +63,11 @@
 
 
         <%-- Gridview --%>
-
-      <%--<div class="col-md-6">
+        
+      <div class="col-md-12">
             <asp:GridView ID="RegistrationList" runat="server"  AutoGenerateColumns="False"
                 CssClass="table" GridLines="Horizontal" BorderStyle="None" AllowPaging="True" OnPageIndexChanging="RegistrationList_PageIndexChanging" PageSize="5" >
                 <Columns>
-                    <asp:CommandField ShowSelectButton="True" />
                     <asp:TemplateField HeaderText="Serial Number">
                         <ItemTemplate>
                             <asp:Label ID="Label11" runat="server" 
@@ -103,6 +100,6 @@
                 <PagerSettings Mode="NumericFirstLast" PageButtonCount="3" />
             </asp:GridView>
         </div>
-    </div>--%>
+    </div>
     <script src="../Scripts/bootwrap-freecode.js"></script>
 </asp:Content>
